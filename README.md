@@ -1,4 +1,4 @@
-#Fizzbuzz
+# Fizzbuzz
 
 Practicing pair programming and TDD with rspec by completing the fizzbuzz challenge.
 

@@ -4,3 +4,9 @@ def fizzbuzz(number)
   return 'buzz' if number % 5 == 0
   return number
 end
+
+def print_numbers()
+  (1..100).each do |number|
+    puts fizzbuzz(number)
+  end
+end
